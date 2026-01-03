@@ -1,9 +1,3 @@
-"""
-LLM Explanation Generator
-=========================
-Uses LangChain + LLM to generate human-readable explanations for alerts.
-Supports OpenAI, Gemini, and local models.
-"""
 
 import os
 from typing import Dict, Optional
